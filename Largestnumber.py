@@ -12,7 +12,7 @@ else:
   largest_num = num3
     
 if st.button("Find the largest number:"):   
-  st.write("The largest number is {largest_num}")
+  st.write(f"The largest number is {largest_num}")
     
   
       
