@@ -8,4 +8,4 @@ elif (b>=a) and (b>=c):
   la=b
 else:
   la=c
-st.write("largest number",la)
+!st.write("largest number",la)
